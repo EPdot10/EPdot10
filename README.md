@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software developer from Australia</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epdot10&theme=onedark&no-bg=false&no-frame=true" alt="Jason" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> Jason Wang</a> </p>
 
 
 - 🔭 I’m currently working on full stack developer at Boson Information Consultancy.
